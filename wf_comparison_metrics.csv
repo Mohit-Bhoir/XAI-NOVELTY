@@ -1,0 +1,11 @@
+variant,ending_value_net,orders_sum_abs_pos_change,trade_event_bars,total_trade_cost_paid,avg_cost_per_trade_event,avg_cost_per_order_unit,order_reduction_vs_baseline,workflow
+baseline,0.97473,514.0,467,0.0257,6e-05,5e-05,,WF1
+xai_gated,1.00432,124.0,121,0.0062,5e-05,5e-05,0.75875,WF1
+baseline,0.8964,634.0,546,0.0317,6e-05,5e-05,,WF2
+xai_gated,0.94117,426.0,390,0.0213,5e-05,5e-05,0.32808,WF2
+baseline,0.96175,258.0,236,0.0129,5e-05,5e-05,,WF3
+xai_gated,0.98642,68.0,66,0.0034,5e-05,5e-05,0.73643,WF3
+baseline,0.98301,348.0,342,0.0174,5e-05,5e-05,,WF4
+xai_gated,0.99369,104.0,104,0.0052,5e-05,5e-05,0.70115,WF4
+baseline,0.93299,428.0,392,0.0214,5e-05,5e-05,,WF5
+xai_gated,0.9682,170.0,159,0.0085,5e-05,5e-05,0.6028,WF5
