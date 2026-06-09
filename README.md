@@ -396,7 +396,7 @@ For questions about:
 - **Trading Logic:** Review `DNNStrategy.ipynb`
 - **Results:** Explore `Results.ipynb` and `WF_Comparison.ipynb`
 
----
+<!-- ---
 
 ## 📄 License & Citation
 
@@ -406,7 +406,7 @@ If you use this research, please cite it as:
 Bhoir, M. N., Rosner, A., Ichtev, A., Golcarenarenji, G., & Gegov, A. (2026).
 Explainability-Driven Decision Gating for Risk-Controlled Algorithmic Trading.
 IEEE International Conference Proceedings.
-```
+``` -->
 
 ---
 
